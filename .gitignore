@@ -2,4 +2,4 @@ ref/*
 ATACseq/*
 DNAseq/*
 RNAseq/*
-
+scripts/slurm-*
